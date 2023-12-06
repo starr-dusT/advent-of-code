@@ -1,7 +1,7 @@
 package main
 
 import (
-	L "day3/lib"
+	L "github.com/starr-dusT/advent-of-code/lib"
 	"fmt"
 	"unicode"
 )
