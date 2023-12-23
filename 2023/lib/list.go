@@ -1,8 +1,6 @@
 package lib
 
 import (
-	"strconv"
-    "strings"
 )
 
 func cut(i int, xs []int) (int, []int) {
